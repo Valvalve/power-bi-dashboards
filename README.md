@@ -1,6 +1,6 @@
 # First Dashboard
 
-![Dashboard Preview](1 - First Dashboard.png)
+![Dashboard Preview](./1%20-%20First%20Dashboard.png)
 
 ## Overview
 
